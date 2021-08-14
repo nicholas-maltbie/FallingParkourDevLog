@@ -7,7 +7,7 @@ gem "github-pages", group: :jekyll_plugins
 group :jekyll_plugins do
     gem "jekyll-feed"
     gem 'jekyll-gzip'
-    gem 'jekyll-pwa-plugin'
+    gem 'jekyll-pwa-plugin', "= 2.2.3"
     gem 'jekyll-seo-tag'
     gem 'jekyll-sitemap'
 end
@@ -16,6 +16,7 @@ gem 'image_optim', :git => 'git://github.com/toy/image_optim.git'
 gem 'image_optim_pack'
 
 gem 'jekyll-gzip'
-gem 'jekyll-pwa-plugin'
+gem 'jekyll-pwa-plugin', "= 2.2.3"
 gem 'jekyll-seo-tag'
 gem 'jekyll-sitemap'
+gem "webrick", "~> 1.7"
