@@ -22,7 +22,7 @@ title: Falling Parkour Dev Log
 email: nick.dmalt@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Development log for the Falling Parkour game
-baseurl: "/ParkourDevLog" # the subpath of your site, e.g. /blog
+baseurl: "/FallingParkourDevLog" # the subpath of your site, e.g. /blog
 url: "https://nicholas-maltbie.github.io/FallingParkourDevLog" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  nicholas-maltbie
 
