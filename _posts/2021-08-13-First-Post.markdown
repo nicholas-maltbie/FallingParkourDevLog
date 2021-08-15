@@ -10,9 +10,9 @@ comments: true
 
 Hello world, this is the initial post for the Falling Parkour game that me and my friends have been developing. This project is an attempt to re-create the game [Fall Guys](https://fallguys.com/) on a much smaller scale to learn more about multiplayer game development for fun. This blog will have weekly updates as well as informational posts. I may post some of the project updates on my personal blog [nickmaltbie.com](https://nickmaltbie.com) as well but I'll include a link from this blog as well if they relate to this project as well. 
 
-I have no expectation that this game will ever be comparable in size to Fall Guys, this is just a fun hobby project. We will probably try to develop it into a small party game (maybe even with a local multiplayer option) to play something more like Ultimate Chicken horse, Screen Cheat, or Tricky Tower where the rounds are short and fun with friends. Maybe include other modes such as timed speed runs for specific maps, a battle royal mode with elimination, local tournament, etc... The sky is the limit, and this is just a hobby project so have to keep the scope small for now. 
+I have no expectation that this game will ever be comparable in size to Fall Guys, this is just a fun hobby project. We will probably try to develop it into a small party game (maybe even with a local multiplayer option) to play something more like Ultimate Chicken horse, Screen Cheat, or Tricky Tower where the rounds are short and fun with friends. Maybe include other modes such as timed speed runs for specific maps, a battle royal mode with elimination, local tournament, etc... The sky is the limit, and this is just a hobby project so must keep the scope small for now. 
 
-The current progress of the project includes the following features
+The current progress of the project includes the following features:
 * Multiplayer online game
 * Loading and dynamic joining a game in lobby or play phase
 * Allowing for multiple character avatars
