@@ -12,7 +12,29 @@ Hello world, this is the initial post for the Falling Parkour game that me and m
 
 I have no expectation that this game will ever be comparable in size to Fall Guys, this is just a fun hobby project. We will probably try to develop it into a small party game (maybe even with a local multiplayer option) to play something more like Ultimate Chicken horse, Screen Cheat, or Tricky Tower where the rounds are short and fun with friends. Maybe include other modes such as timed speed runs for specific maps, a battle royal mode with elimination, local tournament, etc... The sky is the limit, and this is just a hobby project so have to keep the scope small for now. 
 
-I've been working on this project for about a year and a half starting as a small project with friends learning how unity's [Data Oriented Technology Stack (DOTS)](https://unity.com/dots) works. There are multiple other project repositories that were transformed into the current [Falling Parkour](https://github.com/nicholas-maltbie/FallingParkour) game you see now. 
+The current progress of the project includes the following features
+* Multiplayer online game
+* Loading and dynamic joining a game in lobby or play phase
+* Allowing for multiple character avatars
+* Settings configurations for controls, resolution, etc...
+* And many more features
+
+Right now, the game is at a pre-alpha phase of development. Just experimental ideas and laying out the framework for how the game will be structured in the future. here is a video showing the current project progress:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uh7MN0BLsrk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+> This is version v0.0.13 from August 9th, 2021. you can find the version on GitHub as commit [c4344c2e1](https://github.com/nicholas-maltbie/FallingParkour/commit/c4344c2e1008513a2ae14e1a2a2e443f9f7546c1). The project on GitHub has detailed instructions on how to run and build the project. But if you just want the executable, you can download the windows build as a zip file (be aware when downloading random zip or exe files from online, this not a virus but always be careful): [https://drive.google.com/file/d/1oUxA0GNkHyyOcjZ0qMwy3pFm2hGn1dhD/view?usp=sharing](https://drive.google.com/file/d/1oUxA0GNkHyyOcjZ0qMwy3pFm2hGn1dhD/view?usp=sharing)
+
+The project isn't too much right now and has a long way to go before it can be considered ot be in the "alpha phase" of development. The next planned features for the project include:
+* Spectator camera for when you finish a level (or if you join mid-round)
+* Automatic round switching when all players have finished a level
+* Loading in more maps from a pool of selected maps (and more maps/hazards)
+* Character selection screen within the settings menu
+* Score screen for the end of the round
+
+If you have other ideas or suggestions for features you would like to see, feel free to leave a comment or suggestion (or even mess around with the code yourself).
+
+Believe it or now, I've been working on this project for about a year and a half (in one form or another) starting as a small project with friends learning how unity's [Data Oriented Technology Stack (DOTS)](https://unity.com/dots) works. There are multiple other project repositories that were transformed into the current [Falling Parkour](https://github.com/nicholas-maltbie/FallingParkour) game you see now. 
 * Original DOTS project making PropHunt- [https://github.com/nicholas-maltbie/PropHunt](https://github.com/nicholas-maltbie/PropHunt)
 * Making PropHunt using [Mirror Networking](https://mirror-networking.com/) instead of DOTS - [https://github.com/nicholas-maltbie/PropHunt-Mirror](https://github.com/nicholas-maltbie/PropHunt-Mirror)
 
@@ -48,28 +70,6 @@ My favorite out of this list is the Recolor fans bug because it allowed me to cr
 
 ![This view represents the shader graph view within unity and how each individual step is applied to the material to re-color a set of images and layer them together.]({{ site.baseurl }}/assets/images/helloworld/shader-graph-sample-picture.png)
 > This is a sample of how the shader graph is applied step by step to a set of images. I'd be happy to dive further into how shader graphs work and how any shaders that I have created for this project are used to create an immersive experience.
-
-The current progress of the project includes the following features
-* Multiplayer online game
-* Loading and dynamic joining a game in lobby or play phase
-* Allowing for multiple character avatars
-* Settings configurations for controls, resolution, etc...
-* And many more features
-
-Right now, the game is at a pre-alpha phase of development. Just experimental ideas and laying out the framework for how the game will be structured in the future. here is a video showing the current project progress:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uh7MN0BLsrk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-> This is version v0.0.13 from August 9th, 2021. you can find the version on GitHub as commit [c4344c2e1](https://github.com/nicholas-maltbie/FallingParkour/commit/c4344c2e1008513a2ae14e1a2a2e443f9f7546c1). The project on GitHub has detailed instructions on how to run and build the project. But if you just want the executable, you can download the windows build as a zip file (be aware when downloading random zip or exe files from online, this not a virus but always be careful): [https://drive.google.com/file/d/1oUxA0GNkHyyOcjZ0qMwy3pFm2hGn1dhD/view?usp=sharing](https://drive.google.com/file/d/1oUxA0GNkHyyOcjZ0qMwy3pFm2hGn1dhD/view?usp=sharing)
-
-The project isn't too much right now and has a long way to go before it can be considered ot be in the "alpha phase" of development. The next planned features for the project include:
-* Spectator camera for when you finish a level (or if you join mid-round)
-* Automatic round switching when all players have finished a level
-* Loading in more maps from a pool of selected maps (and more maps/hazards)
-* Character selection screen within the settings menu
-* Score screen for the end of the round
-
-If you have other ideas or suggestions for features you would like to see, feel free to leave a comment or suggestion (or even mess around with the code yourself).
 
 This post has discussed a lot of my previous projects and future goals. Lots of future ideas and concepts to work with. I'm working with my friend Jorden who is working on his own personal blog about writing - I suggest you check it out if that's something you're interested in [https://dennyjk.wordpress.com/blog/](https://dennyjk.wordpress.com/blog/). You can also read his most recent post about [Geography Worldbuilding: Eriath](https://dennyjk.wordpress.com/2021/08/14/geography-worldbuilding-eriath/). I hope to continue making weekly posts and regular updates on YouTube, Twitter, and related social media. I hope you have enjoyed this short (_that's a lie, this post is pretty long_) post about the project and future plans for this blog. 
 
