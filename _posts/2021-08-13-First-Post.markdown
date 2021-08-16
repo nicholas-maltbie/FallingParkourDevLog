@@ -23,7 +23,7 @@ The current progress of the project includes the following features:
 * Multiplayer online gaming
 * Pre-game lobby that players can join or leave
 * Support for joining a session mid game
-* Multiple character skins to select from
+* Multiple character cosmetics to select from
 * Adjustable settings from main menu and in game
 
 Right now, the game is at a pre-alpha phase of development. This means that it is just experimental ideas and laying out the framework for how the game will be structured in the future. Here is a video showing the current project progress:
@@ -70,7 +70,7 @@ Over the next few months, I intend to continue development for this project and 
 * [v0.0.10](https://github.com/nicholas-maltbie/FallingParkour/pull/12) - Added version number to main menu and builds.
 * [v0.0.9](https://github.com/nicholas-maltbie/FallingParkour/pull/11) - Removed player sprint.
 
-> Each of these patches versions is numbed as `[major].[minor].[patch]`. So Version `0.0.1` would be major version 0, minor version 0, patch number 1. Each increment in the patch number represents changes to the project. The links in the list above have more information about the changes made to the code. 
+> Each of these patch versions is numbed as `[major].[minor].[patch]`. So Version `0.0.1` would be major version 0, minor version 0, patch number 1. Each increment in the patch number represents changes to the project. The links in the list above have more information about the changes made to the code. 
 
 ## Feature Highlight: Colorable Shaders
 
