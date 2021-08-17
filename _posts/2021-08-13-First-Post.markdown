@@ -2,13 +2,13 @@
 layout: post
 title:  "Hello World"
 date: 2021-08-13 12:00:00 0000
-modified_date: 2021-08-16 22:14:00 0000
+modified_date: 2021-08-16 22:48:00 0000
 categories: update
 author: "Nick Maltbie"
 comments: true
 ---
 
-Hello world! This is the initial post for the Falling Parkour game that I have been developing with my friends. The game is open source and I'll be posting weekly progress updates here.
+Hello world! This is the initial post for the Falling Parkour game that I have been developing with my friends. The game is open source and I'll be posting weekly progress updates here. You can find the current project [here](https://github.com/nicholas-maltbie/FallingParkour).
 
 * TOC
 {:toc}
@@ -28,9 +28,11 @@ The current progress of the project includes the following features:
 
 Right now, the game is at a pre-alpha phase of development. This means that it is just experimental ideas and laying out the framework for how the game will be structured in the future. Here is a video showing the current project progress:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uh7MN0BLsrk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uh7MN0BLsrk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe>
+</div>
 
-> This is Falling Parkour v0.0.13 from August 9th, 2021. you can find the version on GitHub [version v0.0.13](https://github.com/nicholas-maltbie/FallingParkour/commit/c4344c2e1008513a2ae14e1a2a2e443f9f7546c1). The project on GitHub has detailed instructions on how to run and build the project. But if you just want the executable (.exe) file to try for yourself, you can download the windows build as a [zip file](https://drive.google.com/file/d/1oUxA0GNkHyyOcjZ0qMwy3pFm2hGn1dhD/view?usp=sharing).
+> This is Falling Parkour v0.0.13 from August 9th, 2021. you can find the version on GitHub at [v0.0.13](https://github.com/nicholas-maltbie/FallingParkour/commit/c4344c2e1008513a2ae14e1a2a2e443f9f7546c1). The project on GitHub has detailed instructions on how to run and build the project. But if you just want the executable (.exe) file to try for yourself, you can download the windows build as a [zip file](https://drive.google.com/file/d/1oUxA0GNkHyyOcjZ0qMwy3pFm2hGn1dhD/view?usp=sharing).
 
 The project doesn't have too much to work with right now and has a long way to go before it can be considered in the "alpha phase" of development. The next planned features for the project include:
 * Spectator camera for when you finish a level (or if you join in the middle of a round)
@@ -43,7 +45,9 @@ If you have other ideas or suggestions for features you would like to see, feel 
 
 I’ve been working on this project for about a year and a half with friends learning how to use various technical tools. There are multiple other projects that I made leading up to the current [Falling Parkour](https://github.com/nicholas-maltbie/FallingParkour) I'm working on now. Below is a video where I talk about making a game with the Data Oriented Technology Stack (DOTS). I'm still using many of the same ideas and concepts form that project in Falling Parkour. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/N4uKXMWs4aE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N4uKXMWs4aE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe>
+</div>
 
 > _Since I made the PropHunt DOTS project as part of a school project, I ended up making a video talking about how the code works. Much of this code design is still used in the current version of the project. I’d love to write an update about how character movement works, how client authoritative movement allows for playing a game with minimal lag, and how they are implemented. I will make more YouTube videos discussing these topics in greater depth as I continue development._
 
@@ -55,7 +59,9 @@ I started learning about Unity and 3-D modeling back in my freshman year of coll
 
 > _This picture is from the [Treachery Project Blog Post](https://nickmaltbie.com/honors/2017/07/28/Treachery.html). I'm very happy with how this project turned out and I learned a lot about 3-D modeling. I actually remade the chandelier asset in blender recently and love continuing to make 3-D models and textures. I used to paint and make clay sculptures when I was younger so I guess this transition to 3D would only be natural_.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ur3sEam7JCs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ur3sEam7JCs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe>
+</div>
 
 > _Fun fact: I originally developed a previous project that I also, somewhat confusingly, called Treachery (a different version than the project discussed earlier) back in 2016. I attempted to re-create my favorite board game, [Betrayal at House on the Hill](https://boardgamegeek.com/boardgame/10547/betrayal-house-hill). The video above is me showing a short video of how the project works and walking through a sample multiplayer game. This was my first time developing a 3-D multiplayer game and the idea has always been somethign I've liked to tinker around with on my own time. I don't have a link to the original source code, but if I find it, I will make a short video or post discussing that project and all the interesting stuff I added._ 
 
