@@ -2,7 +2,7 @@
 layout: post
 title:  "Hello World"
 date: 2021-08-13 12:00:00 0000
-modified_date: 2021-08-15 21:15:00 0000
+modified_date: 2021-08-16 22:14:00 0000
 categories: update
 author: "Nick Maltbie"
 comments: true
@@ -17,7 +17,7 @@ Hello world! This is the initial post for the Falling Parkour game that I have b
 
 This project is an attempt to re-create the game [Fall Guys](https://fallguys.com/) on a much smaller scale to learn more about multiplayer game development for fun. This blog will have weekly updates as well as informational posts. I may post some of the project updates on my personal blog [nickmaltbie.com](https://nickmaltbie.com) as well, but I’ll include links when appropriate to this project as well. 
 
-I have no expectation that this game will ever be comparable in size to Fall Guys; this is just a fun hobby project. We will probably try to develop it into a small party game (maybe even with a local split screen multiplayer option) to play something more similar to Ultimate Chicken Horse, Screen Cheat, or Tricky Tower. In these games, the rounds are typically shorter and more fun with a group of friends. Maybe include other modes such as timed speed runs for specific maps, a battle royal mode with elimination, local tournaments, etc. The sky is the limit, and I can't wait to see how this project develops.
+I have no expectation that this game will ever be comparable in size to Fall Guys; this is just a fun hobby project. We will probably try to develop it into a small party game (maybe even with a local split screen multiplayer option) to play something more similar to Ultimate Chicken Horse, Screen Cheat, or Tricky Towers. In these games, the rounds are typically shorter and more fun with a group of friends. Maybe include other modes such as timed speed runs for specific maps, a battle royal mode with elimination, local tournaments, etc. The sky is the limit, and I can't wait to see how this project develops.
 
 The current progress of the project includes the following features:
 * Multiplayer online gaming
