@@ -2,13 +2,13 @@
 layout: post
 title:  "Hello World"
 date: 2021-08-13 12:00:00 0000
-modified_date: 2021-08-16 22:14:00 0000
+modified_date: 2021-08-16 22:48:00 0000
 categories: update
 author: "Nick Maltbie"
 comments: true
 ---
 
-Hello world! This is the initial post for the Falling Parkour game that I have been developing with my friends. The game is open source and I'll be posting weekly progress updates here.
+Hello world! This is the initial post for the Falling Parkour game that I have been developing with my friends. The game is open source and I'll be posting weekly progress updates here. You can find the current project [here](https://github.com/nicholas-maltbie/FallingParkour).
 
 * TOC
 {:toc}
@@ -32,7 +32,7 @@ Right now, the game is at a pre-alpha phase of development. This means that it i
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uh7MN0BLsrk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe>
 </div>
 
-> This is Falling Parkour v0.0.13 from August 9th, 2021. you can find the version on GitHub [version v0.0.13](https://github.com/nicholas-maltbie/FallingParkour/commit/c4344c2e1008513a2ae14e1a2a2e443f9f7546c1). The project on GitHub has detailed instructions on how to run and build the project. But if you just want the executable (.exe) file to try for yourself, you can download the windows build as a [zip file](https://drive.google.com/file/d/1oUxA0GNkHyyOcjZ0qMwy3pFm2hGn1dhD/view?usp=sharing).
+> This is Falling Parkour v0.0.13 from August 9th, 2021. you can find the version on GitHub at [v0.0.13](https://github.com/nicholas-maltbie/FallingParkour/commit/c4344c2e1008513a2ae14e1a2a2e443f9f7546c1). The project on GitHub has detailed instructions on how to run and build the project. But if you just want the executable (.exe) file to try for yourself, you can download the windows build as a [zip file](https://drive.google.com/file/d/1oUxA0GNkHyyOcjZ0qMwy3pFm2hGn1dhD/view?usp=sharing).
 
 The project doesn't have too much to work with right now and has a long way to go before it can be considered in the "alpha phase" of development. The next planned features for the project include:
 * Spectator camera for when you finish a level (or if you join in the middle of a round)
