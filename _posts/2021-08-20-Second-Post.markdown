@@ -2,6 +2,7 @@
 layout: post
 title:  "Update - Spectators!"
 date: 2021-08-20 00:00:00 0000
+modified_date: 2021-08-20 13:55:00 0000
 categories: update
 author: "Nick Maltbie"
 comments: true
