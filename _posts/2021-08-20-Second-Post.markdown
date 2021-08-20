@@ -60,6 +60,7 @@ The next few features planned (in no particular order) for the project include:
 * Improvement to character controller
   * Knocking the character prone/rag-doll
   * Slippery ground to slide across
+  * Bouncy surfaces and objects to jump off
   * More debugging of jumping and falling mechanics
 * Level select screen for host
   * Also, more level besides just big fans
