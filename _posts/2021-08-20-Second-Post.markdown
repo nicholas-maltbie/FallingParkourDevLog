@@ -2,15 +2,16 @@
 layout: post
 title:  "Update - Spectators!"
 date: 2021-08-20 00:00:00 0000
-modified_date: 2021-08-20 13:55:00 0000
+modified_date: 2021-08-21 00:15:00 0000
 categories: update
 author: "Nick Maltbie"
 comments: true
 ---
 
 Hello again everyone, making another short update about the game development this week. Much shorter update than last
-week (quite a bit busier at work this week). If you're interested, here is the 
-[Hello World Post]({{ site.baseurl }}{% post_url 2021-08-13-First-Post %}) from last week introducing the project.
+week (quite a bit busier at work this week). You can download a copy of the project [v0.0.17 for windows](https://drive.google.com/file/d/1ax2PGef7xrlyaPZgja3UgF7aC2Esqd4A/view?usp=sharing).
+If you're interested, here is the [Hello World Post]({{ site.baseurl }}{% post_url 2021-08-13-First-Post %})
+from last week introducing the project.
 
 * TOC
 {:toc}
