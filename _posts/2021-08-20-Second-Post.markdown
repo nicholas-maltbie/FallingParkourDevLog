@@ -18,6 +18,8 @@ week (quite a bit busier at work this week). If you're interested, here is the
 # Change List
 
 Here is the list of changes added to the project since last week:
+* *[v0.0.17](https://github.com/nicholas-maltbie/FallingParkour/pull/20)* - Fixing bugs in spectator code that was added
+  in previous patch.
 * *[v0.0.16](https://github.com/nicholas-maltbie/FallingParkour/pull/18)* - Spectator players, you can now spectate
   other players and static points labeled as "Follow-able" objects when you finish the level.
 * *[v0.0.15](https://github.com/nicholas-maltbie/FallingParkour/pull/17)* - Correcting a small typo in the code.
