@@ -2,7 +2,7 @@
 layout: post
 title:  "Recolor Shader"
 date: 2021-08-20 12:00:00 0000
-modified_date: 2021-08-21 00:15:00 0000
+modified_date: 2021-08-21 18:21:00 0000
 categories: tutorial
 author: "Nick Maltbie"
 comments: true
@@ -28,15 +28,21 @@ contains all the information about how the basic recolor shader works and goes t
 
 Here are some example images of the shader in action
 
-<!-- Insert example images here -->
+Recoloring a few boxes
 
-# Video Tutorial
+![](https://github.com/nicholas-maltbie/Recolor-Shader-Example/blob/main/Examples/imgs/Showcase.png?raw=true)
+
+Animation of recoloring a box in unity
+
+![](https://github.com/nicholas-maltbie/Recolor-Shader-Example/blob/main/Examples/imgs/5-RecolorCubes.gif?raw=true)
+
+<!-- # Video Tutorial
 
 I have made a short YouTube video walking through these steps explaining how the shader works
 
 <div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/<recolor video>" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe>
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe>
+</div> -->
 
 
 

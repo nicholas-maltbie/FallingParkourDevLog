@@ -2,7 +2,7 @@
 layout: post
 title:  "Update - Spectators!"
 date: 2021-08-20 00:00:00 0000
-modified_date: 2021-08-21 00:15:00 0000
+modified_date: 2021-08-21 18:21:00 0000
 categories: update
 author: "Nick Maltbie"
 comments: true
@@ -36,9 +36,8 @@ are following.
 
 A demo video showing the spectators in action can be seen here:
 
-_TODO: Publish video for this_
 <div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/<spectator video>" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/79Nm3eWgQIg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe>
 </div>
 
 Spectators can come into the game in one of a few ways:
@@ -54,7 +53,9 @@ information/tutorial [Recolor Shader Post]({{ site.baseurl }}{% post_url 2021-08
 know more about how it works. It has an example project stepping through each part of the shader and explaining how it
 works.
 
-_TODO: Find cover image for recolor shader post_
+<div class="container">
+<img src="https://github.com/nicholas-maltbie/Recolor-Shader-Example/blob/main/Examples/imgs/Showcase.png?raw=true"/>
+</div>
 
 # Future Plans
 
