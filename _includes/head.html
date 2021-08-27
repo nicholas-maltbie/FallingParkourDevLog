@@ -50,7 +50,16 @@
         <meta name="twitter:title" content="{{site.title}}" />
         <meta name="twitter:image" content="{{ site.baseurl }}/logo_512.jpg" />
     {% endif %}
-
+  
+    <script>
+        // Check that service workers are registered
+        if ('serviceWorker' in navigator) {
+          // Use the window load event to keep the page load performant
+          window.addEventListener('load', () => {
+            navigator.serviceWorker.register('{{ site.baseurl }}/service-worker.js');
+          });
+        }
+    </script>
 
     <!-- icon in the highest resolution we need it for -->
     <link rel="icon" sizes="192x192" href="{{ site.baseurl }}/logo_192.png"/>
