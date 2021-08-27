@@ -35,6 +35,9 @@ facebook_username: nicholas.maltbie
 theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
+  - jekyll-gzip
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.

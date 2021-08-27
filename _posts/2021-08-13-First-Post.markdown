@@ -1,12 +1,15 @@
 ---
 layout: post
-title:  "Hello World"
+title:  "Update: Hello World"
 date: 2021-08-13 12:00:00 0000
 modified_date: 2021-08-16 22:48:00 0000
 categories: update
 author: "Nick Maltbie"
+image: assets/post-preview/hello-world-preview.png
 comments: true
 ---
+
+{{ page.image }}
 
 Hello world! This is the initial post for the Falling Parkour game that I have been developing with my friends. The game is open source and I'll be posting weekly progress updates here. You can find the current project [here](https://github.com/nicholas-maltbie/FallingParkour).
 

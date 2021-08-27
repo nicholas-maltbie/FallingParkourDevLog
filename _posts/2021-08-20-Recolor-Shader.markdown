@@ -5,6 +5,7 @@ date: 2021-08-20 12:00:00 0000
 modified_date: 2021-08-21 18:21:00 0000
 categories: tutorial
 author: "Nick Maltbie"
+image: "assets/post-preview/recolor-shaders-preview.png"
 comments: true
 ---
 
