@@ -2,7 +2,7 @@
 
 // set names for both precache & runtime cache
 workbox.core.setCacheNameDetails({
-    prefix: 'nick-maltbie',
+    prefix: 'nick-maltbie-parkour-dev-log',
     suffix: 'v1',
     precache: 'precache',
     runtime: 'runtime-cache'
