@@ -2,7 +2,7 @@
 layout: post
 title:  "Update: Hex-A-Gone"
 date: 2021-08-26 22:25:00 0000
-modified_date: 2021-08-26 22:25:00 0000
+modified_date: 2021-08-27 22:25:00 0000
 categories: update
 author: "Nick Maltbie"
 image: "assets/post-preview/hexagons-update-preview.png"
@@ -37,7 +37,7 @@ Here is the list of changes added to the project since last week:
 
 # Feature Highlight - Hex-A-Gone
 
-![Layered maps of hexagon grids for the new game mode, Hex-A-Gone]({{ site.baseurl }}/assets/post-preview/hexagons-update-preview.png)
+![Layered maps of hexagon grids for the new game mode, Hex-A-Gone]({{ site.baseurl }}/assets/post-preview/hexagon-tower.png)
 
 The feature highlight this week is the new level, Hex-A-Gone. This level is inspired from Fall Guys: Ultimate Knockout
 [Hex-A-Gone](https://fallguys.com/rounds/hex-a-gone) round. The map is split up into layers of hexagons which will 
@@ -75,6 +75,10 @@ Not sure which tasks will be prioritized right away, but these are the current p
   * Always more debugging...
 
 Can't wait to get started on those next features.
+
+I'm making blog pots along with my friend Jorden, check out his writing blog at https://dennyjk.wordpress.com/blog/ or
+his most recent post on [The Four Horsemen](https://dennyjk.wordpress.com/2021/08/29/character-profiles-death/) (the
+post will be live at 1pm Eastern Time on 08-28-21).
 
 Have a great week
 
