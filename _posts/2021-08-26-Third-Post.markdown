@@ -37,7 +37,7 @@ Here is the list of changes added to the project since last week:
 
 # Feature Highlight - Hex-A-Gone
 
-![Layered maps of hexagon grids for the new game mode, Hex-A-Gone]({{ site.baseurl }}/assets/post-preview/hexagon-tower.png)
+![Layered maps of hexagon grids for the new game mode, Hex-A-Gone]({{ site.baseurl }}/assets/images/hexagon-update/hexagon-tower.png)
 
 The feature highlight this week is the new level, Hex-A-Gone. This level is inspired from Fall Guys: Ultimate Knockout
 [Hex-A-Gone](https://fallguys.com/rounds/hex-a-gone) round. The map is split up into layers of hexagons which will 
