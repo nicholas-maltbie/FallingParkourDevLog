@@ -10,7 +10,7 @@ comments: true
 ---
 
 Weekly post number 4, that's a month of updates so far--the development of the project has been going great and there is
-so many fun new updates to tell about this week! You can download a copy of the project form this week's
+so many fun new updates to talk about this week! You can download a copy of the project form this week's
 development [v0.0.29 for windows](https://drive.google.com/file/d/1DWAvXPaDGaUKYqetAFBEqMVZ-aHcrfWS/view?usp=sharing).
 Lots of things to talk about for this week so let's hop right in.
 
@@ -69,7 +69,7 @@ of creating new hexagon grid maps. The github repo with the code is found here:
 [https://github.com/nicholas-maltbie/TileMaps](https://github.com/nicholas-maltbie/TileMaps) and I will be updating it
 to include lots more features for tile maps of any type and all sorts of fun path finding and interesting tricks. Having
 hexagons and grid maps may prove useful in the future for this project and possibly for other people as well. It might
-take me a few weeks but I'll do my best to keep adding features and eventually build to releasing a unity package with
+take me a few weeks, but I'll do my best to keep adding features and eventually build to releasing a unity package with
 the recolor shader. 
 
 # Future Plans
