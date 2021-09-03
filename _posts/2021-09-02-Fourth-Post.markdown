@@ -11,7 +11,7 @@ comments: true
 
 Weekly post number 4, that's a month of updates so far--the development of the project has been going great and there is
 so many fun new updates to tell about this week! You can download a copy of the project form this week's
-development [v0.0.29 for windows](https://drive.google.com/file/d/1DFX6879WyvreJAx1T0dV9iY8IweJpzXT/view?usp=sharing).
+development [v0.0.29 for windows](https://drive.google.com/file/d/1DWAvXPaDGaUKYqetAFBEqMVZ-aHcrfWS/view?usp=sharing).
 Lots of things to talk about for this week so let's hop right in.
 
 * TOC
