@@ -6,6 +6,7 @@ modified_date: 2021-09-02 22:25:00 0000
 categories: update
 author: "Nick Maltbie"
 image: "assets/post-preview/wipeout-update-preview.png"
+video: "https://www.youtube.com/v/HJhNoDgmxUU"
 comments: true
 ---
 
@@ -20,7 +21,7 @@ Lots of things to talk about for this week so let's hop right in.
 # Change List
 
 <div class="container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HJhNoDgmxUU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="video"></iframe>
 </div>
 
 Here is the list of changes added to the project since last week:
