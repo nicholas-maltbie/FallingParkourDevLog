@@ -92,7 +92,6 @@ Not sure which tasks will be prioritized right away, but these are the current p
     * Always more debugging...
 * More game sound effects and music
 
-
 Can't wait to get started on those next features.
 
 Have a great week
